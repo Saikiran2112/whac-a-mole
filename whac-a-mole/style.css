@@ -1,0 +1,16 @@
+#grid{
+    height:516px;
+    width:516px;
+    border:2px solid black;
+    display:flex;
+    flex-wrap:wrap;
+
+}
+#grid div{
+    width:170px;
+    height:170px;
+    border:1px solid black;
+}
+.mole{
+    background-color:blue;
+}
